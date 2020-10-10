@@ -1,0 +1,10 @@
+C:\Users\shach\source\repos\todo-list\todo-list\bin\Debug\todo-list.exe.config
+C:\Users\shach\source\repos\todo-list\todo-list\bin\Debug\todo-list.exe
+C:\Users\shach\source\repos\todo-list\todo-list\bin\Debug\todo-list.pdb
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo-list.csprojAssemblyReference.cache
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo_list.Form1.resources
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo_list.Properties.Resources.resources
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo-list.csproj.GenerateResource.cache
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo-list.csproj.CoreCompileInputs.cache
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo-list.exe
+C:\Users\shach\source\repos\todo-list\todo-list\obj\Debug\todo-list.pdb
